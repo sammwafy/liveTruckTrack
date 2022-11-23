@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should fetch and render 1`] = `
+Object {
+  "Latitude": 52.51605,
+  "Longitude": 13.37691,
+}
+`;
+
+exports[`should fetch and render 2`] = `
+Array [
+  Object {
+    "address": Object {
+      "city": "Berlin",
+      "country": "Germany",
+      "county": "Berlin",
+      "postalCode": "10117",
+      "state": "Berlin",
+    },
+    "countryCode": "DEU",
+    "label": "10117, Berlin, Berlin, Berlin, Germany",
+    "language": "en",
+    "locationId": "NT_DKX2wfaWICS7JyfHmCOJhB",
+    "matchLevel": "city",
+  },
+  Object {
+    "address": Object {
+      "country": "Germany",
+      "county": "Berlin",
+      "state": "Berlin",
+    },
+    "countryCode": "DEU",
+    "label": "Berlin, Berlin, Germany",
+    "language": "en",
+    "locationId": "NT_MA6xiXs5hGsq-tRm65Wf-A",
+    "matchLevel": "county",
+  },
+  Object {
+    "address": Object {
+      "country": "Germany",
+      "state": "Berlin",
+    },
+    "countryCode": "DEU",
+    "label": "Berlin, Germany",
+    "language": "en",
+    "locationId": "NT_yGnW7rZT3HnFM0EL.MXf8D",
+    "matchLevel": "state",
+  },
+  Object {
+    "address": Object {
+      "city": "Seedorf",
+      "country": "Germany",
+      "county": "Segeberg",
+      "district": "Berlin",
+      "postalCode": "23823",
+      "state": "Schleswig-Holstein",
+    },
+    "countryCode": "DEU",
+    "label": "23823, Berlin, Seedorf, Segeberg, Schleswig-Holstein, Germany",
+    "language": "en",
+    "locationId": "NT_z98IMzwzx4B46-Frosm6PA",
+    "matchLevel": "district",
+  },
+  Object {
+    "address": Object {
+      "city": "Klein Bennebek",
+      "country": "Germany",
+      "county": "Schleswig-Flensburg",
+      "district": "Potsdam",
+      "postalCode": "24848",
+      "state": "Schleswig-Holstein",
+      "street": "Berlin",
+    },
+    "countryCode": "DEU",
+    "label": "24848, Berlin, Potsdam, Klein Bennebek, Schleswig-Flensburg, Schleswig-Holstein, Germany",
+    "language": "en",
+    "locationId": "NT_pFGfBfjhNCRlCWwNLLB3nD",
+    "matchLevel": "street",
+  },
+]
+`;
