@@ -6,11 +6,11 @@ We will search all over Central Europe and suggest the nearest driver, we want t
 *Don't forget to register on HERE GeoCode to generate the geocoder api key which we use for map search* →
 `https://platform.here.com/portal/`
 
-Then create `.env` file in `frontend/` folder with these detais
-`
-HERE_APPID = appId
+Then create `.env` file in `frontend/` folder with these detais <br>
+```
+HERE_APPID = appId 
 HERE_APPCODE = apiKey
-`
+```
 
 ## Frontend
 
