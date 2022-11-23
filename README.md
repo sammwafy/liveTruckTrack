@@ -3,7 +3,7 @@
 Transporation companies with large fleets of drivers want to optimize their processes by finding the closest drivers to order pickup locations. Suppose that we have location data for 500 drivers
 We will search all over Central Europe and suggest the nearest driver, we want to sort the drivers according to their closedness to a specific location.
 
-*Don't forget to register on HERE GeoCode to generate the geocoder api key which we use for map search* ↓
+*Don't forget to register on HERE GeoCode to generate the geocoder api key which we use for map search* →
 `https://platform.here.com/portal/`
 
 ## Frontend
