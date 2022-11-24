@@ -11,7 +11,10 @@ Then create `.env` file in `frontend/` folder with these detais <br>
 HERE_APPID = appId 
 HERE_APPCODE = apiKey
 ```
-
+****
+## live preview (deployed on vercel & heroku ❤) ↓ <br>
+https://frontend-live-truck-track.vercel.app/
+****
 ## Frontend
 
 You can run the frontend by doing the following:
